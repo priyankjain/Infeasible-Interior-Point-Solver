@@ -1,0 +1,152 @@
+=======================================>
+Problem: lp_afiro
+
+Clp solver:
+Solution status: Optimal
+Optimal objective value: -464.75314285714285
+elapsed time: 0.184935074 seconds
+
+Our solver:
+Problem size: (27,51)
+Added 0 slack variables.
+Presolved problem size: (27,51)
+Solution converged in 10 iterations.
+Solution status: Optimal
+Optimal objective value: -464.753142838679
+elapsed time: 3.972409261 seconds
+ 
+=======================================>
+Problem: lp_brandy
+
+Clp solver:
+Solution status: Optimal
+Optimal objective value: 1518.5098964881286
+elapsed time: 0.007183795 seconds
+
+Our solver:
+Problem size: (220,303)
+Added 0 slack variables.
+Presolved problem size: (137,247)
+Solution converged in 21 iterations.
+Solution status: Optimal
+Optimal objective value: 1518.5098970098225
+elapsed time: 1.45867023 seconds
+ 
+=======================================>
+Problem: lp_fit1d
+
+Clp solver:
+Solution status: Optimal
+Optimal objective value: -9146.378092420953
+elapsed time: 0.008728097 seconds
+
+Our solver:
+Problem size: (24,1049)
+Added 1026 slack variables.
+Presolved problem size: (1050,2075)
+Solution converged in 21 iterations.
+Solution status: Optimal
+Optimal objective value: -9146.378091739809
+elapsed time: 118.012789751 seconds
+ 
+=======================================>
+Problem: lp_adlittle
+
+Clp solver:
+Solution status: Optimal
+Optimal objective value: 225494.96316238036
+elapsed time: 0.001864751 seconds
+
+Our solver:
+Problem size: (56,138)
+Added 0 slack variables.
+Presolved problem size: (55,137)
+Solution converged in 14 iterations.
+Solution status: Optimal
+Optimal objective value: 225494.96316240696
+elapsed time: 0.155672099 seconds
+ 
+=======================================>
+Problem: lp_agg
+
+Clp solver:
+Solution status: Optimal
+Optimal objective value: -3.59917672865765e7
+elapsed time: 0.004712411 seconds
+
+Our solver:
+Problem size: (488,615)
+Added 0 slack variables.
+Presolved problem size: (488,615)
+Solution converged in 35 iterations.
+Solution status: Optimal
+Optimal objective value: -3.5991767286504164e7
+elapsed time: 10.911391668 seconds
+ 
+=======================================>
+Problem: lp_ganges
+
+Clp solver:
+Solution status: Optimal
+Optimal objective value: -109585.73612927883
+elapsed time: 0.014657076 seconds
+
+Our solver:
+Problem size: (1309,1706)
+Added 397 slack variables.
+Presolved problem size: (1522,1919)
+Solution converged in 20 iterations.
+Solution status: Optimal
+Optimal objective value: -109585.73509288603
+elapsed time: 404.589811653 seconds
+ 
+=======================================>
+Problem: lp_stocfor1
+
+Clp solver:
+Solution status: Optimal
+Optimal objective value: -41131.97621943641
+elapsed time: 0.001654987 seconds
+
+Our solver:
+Problem size: (117,165)
+Added 0 slack variables.
+Presolved problem size: (106,154)
+Solution converged in 18 iterations.
+Solution status: Optimal
+Optimal objective value: -41131.97621937284
+elapsed time: 0.402112258 seconds
+ 
+=======================================>
+Problem: lp_25fv47
+
+Clp solver:
+Solution status: Optimal
+Optimal objective value: 5501.845888286745
+elapsed time: 0.243783799 seconds
+
+Our solver:
+Problem size: (821,1876)
+Added 0 slack variables.
+Presolved problem size: (793,1849)
+Solution converged in 27 iterations.
+Solution status: Optimal
+Optimal objective value: 5501.8458893128345
+elapsed time: 144.253545344 seconds
+ 
+=======================================>
+Problem: lpi_chemcom
+
+Clp solver:
+Solution status: Infeasible
+Optimal objective value: nothing
+elapsed time: 0.024353188 seconds
+
+Our solver:
+Problem size: (288,744)
+Added 144 slack variables.
+Presolved problem size: (432,888)
+Exceed maximum iteration.
+Solution status: Infeasible
+elapsed time: 39.088137954 seconds
+ 
